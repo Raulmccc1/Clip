@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Clip — Fast URL Shortener</title>
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://clipshort.netlify.app/" />
+
+  <!-- Icon -->
+  <link rel="icon" type="image/svg+xml" sizes="32x32" href="/icon.svg" />
+
+  <!-- PWA -->
+  <link rel="manifest" href="/manifest.webmanifest" />
+  <meta name="theme-color" content="#0f172a" />
+
+  <!-- Basic SEO -->
+  <meta name="description"
+    content="Clip is a fast, privacy-minded URL shortener with analytics, QR codes, and custom domains." />
+  <meta name="keywords" content="URL shortener, link shortener, QR codes, custom domains, link analytics" />
+  <meta name="robots" content="index,follow" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Clip" />
+  <meta property="og:title" content="Clip — Shorten, brand, and track your links" />
+  <meta property="og:description"
+    content="Create short links with custom slugs, branded domains, and real‑time analytics." />
+  <meta property="og:url" content="https://clipshort.netlify.app/" />
+  <meta property="og:image" content="https://clipshort.netlify.app/cover.png" />
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Clip — Fast URL Shortener" />
+  <meta name="twitter:description" content="Shorten, brand, and track links with ease." />
+  <meta name="twitter:image" content="https://clipshort.netlify.app/cover.png" />
+
+  <!-- JSON‑LD (WebSite) -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Clip",
+      "url": "https://clipshort.netlify.app/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://clipshort.netlify.app/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+</head>
+
+<body class="min-h-screen bg-background text-foreground antialiased">
+  <noscript>
+    <div style="padding:1rem;background:#fee2e2;color:#7f1d1d">
+      JavaScript is required to use Clip. Please enable it in your browser.
+    </div>
+  </noscript>
+
+  <div id="root"></div>
+  <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>

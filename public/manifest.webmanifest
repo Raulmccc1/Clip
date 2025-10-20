@@ -1,0 +1,35 @@
+{
+    "name": "Clip — URL Shortener",
+    "short_name": "Clip",
+    "description": "Shorten, brand, and track links with custom domains, QR codes, and real-time analytics.",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#0f172a",
+    "background_color": "#0b1220",
+    "icons": [
+        {
+            "src": "/icon.svg",
+            "sizes": "192x192",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Create short link",
+            "short_name": "Shorten",
+            "url": "/dashboard"
+        },
+        {
+            "name": "View analytics",
+            "short_name": "Analytics",
+            "url": "/dashboard"
+        }
+    ],
+    "categories": [
+        "productivity",
+        "utilities"
+    ]
+}

